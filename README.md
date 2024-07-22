@@ -1,16 +1,8 @@
-## Hi there 👋
-
-<!--
-**Prabhleen/Prabhleen** is a ✨ _special_ ✨ repository because its ` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning cse
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Prabhleencoder.github.io
+##activity report of student induction
+program batch 2024
+|date|nane of person|detail|
+|-------|------------|------|
+|15/07/2024|Pyare lal sir|he gave is a 
+knowledge of life by reciting different
+kinds of poems|
