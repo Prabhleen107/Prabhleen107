@@ -47,8 +47,9 @@ i have completed my class 12th from guru teg bahadur public school bardwal dhuri
   |                  | Causmic Club | Our senior performed bhangra and everyone enjoyed |
   | 23 July,2024 | Math class | firstly we have parcticed some questions of integration and then proceeded with new topic differntial equations|
   |               | Chemistry class | the class started with breif introduction of each student and then the sir revised basics of chemistry  and also taught us about  **NPTEL** and **MOOCS** |
-   | 24 July 2024 | IOC Mr. Gauravdeep Singh | He is the founder and chairman of **initiator of change**. He shared three different lessons with us which was told by his mentor to him at different situations in his life. The very first lesson he gave us was **ਸਾਝ ਕਰੀਜੈ ਗੁਣਹ ਕੇਰੀ ਛੋਡਿ ਅਵਗਣ ਚਲੀਐ** , the second one was **ਜੋ ਬ੍ਰਹਮੰਡੇ ਸੋਈ ਪਿੰਡੇ ਜੋ ਖੋਜੈ ਸੋ ਪਾਵੈ** and the third one was **ਰੱਬ ਸਬਦਾ ਭਲਾ ਕਰਦਾ ਹੈ** । |
+| 24 July 2024 | IOC Mr. Gauravdeep Singh | He is the founder and chairman of **initiator of change**. He shared three different lessons with us which was told by his mentor to him at different situations in his life. The very first lesson he gave us was **ਸਾਝ ਕਰੀਜੈ ਗੁਣਹ ਕੇਰੀ ਛੋਡਿ ਅਵਗਣ ਚਲੀਐ** , the second one was **ਜੋ ਬ੍ਰਹਮੰਡੇ ਸੋਈ ਪਿੰਡੇ ਜੋ ਖੋਜੈ ਸੋ ਪਾਵੈ** and the third one was **ਰੱਬ ਸਬਦਾ ਭਲਾ ਕਰਦਾ ਹੈ** । |
 |              | Prof. Yuvraj Singh | He told us if there is any query regarding anything they can share with him. He is involved in each club. |
 |              | Fine Arts Events | we went for the competition of mehandi conducted by our seniors.|
-|              | CAUSMIC CLUB | In this session we got to know about the causmic club and the events in which we can participate. |
+|              | Causmic Club  | In this session we got to know about the Causmic Club and the events in which we can participate. |
+
 
