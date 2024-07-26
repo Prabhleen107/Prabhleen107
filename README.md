@@ -51,5 +51,9 @@ i have completed my class 12th from guru teg bahadur public school bardwal dhuri
   |              | Prof. Yuvraj Singh | He told us if there is any query regarding anything they can share with him. He is involved in each club. |
   |              | Fine Arts Events | we went for the competition of mehandi conducted by our seniors.|
   |              | Causmic Club  | In this session we got to know about the Causmic Club and the events in which we can participate. |
-
+  | 25 july 2024 | Dr.Arvind dhingra| He is the chairman of tachnical activities commmitte and he told us about membership . he told us about various clubs, and lastly he invited 22 students on stage and they all had played team strategy game,  he also told us about 3 p's of success i.e **Passion**, **Persistence**, **Patience**.|
+  |               | chemistry class| we started with revising the last topics and then continued with disussing hardness of water and sir also taught us certain formulas and then we solved numericals related to them.|
+  |               | math test | math test was conducted of topics drrivative and integration.|
+  |26 july 2024| Dr.kanwalpreet K bhatt| she was the meditation counseller and homeopatic practitioner with 20 years of experience.she started this amazing session with telling the importance of meditation in our life that how miraculous it is,the she presented one ppt and after that she make us practice meditation for 20 minutes.|
+  |              | valedictory| as it was the last day of induction various activities were performed by the students ,very besutufully they ended this incredible journey of induction by their melodious voice,dancing skills, mimickering and praising the whole journey.|
 
